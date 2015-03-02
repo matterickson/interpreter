@@ -4,8 +4,11 @@ A year back I was working on an interpreter for a school project. We started by 
 The language supports integers and doubles, functions, recursion and a print statement.
 
 The file Interpreter.jar is the entire project, runnable with just one click.
+
 The file GUI.java is a runnable java file that contains a JPanel for the user to program in (requires other files in this repo).
+
 The file MyApplet.java is a JApplet that can run the program in browser (assuming your browser still runs Java applets).  Running this file also requires the other java files in this repo like GUI.java.
+
 The file syntax.txt is the syntax of the project.
 
 You are welcome to use this code for any of your own projects.  If you have any questions about this project you can email me at matterickson@hotmail.com
