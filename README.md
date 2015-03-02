@@ -5,3 +5,8 @@ parser to determine if the program follows the correct syntax. It then builds an
 the program in a binary tree and finally interprets the tree to determine the output.
 
 The language supports integers and doubles, functions, recursion and a print statement.
+
+The file GUI is a runnable java file that contains a JPanel for the user to program in.
+The file MyApplet is a JApplet that can run the program in browser (assuming your browser still runs Java applets).
+
+You are welcome to use this code for any of your own projects.  If you have any questions about this project you can email me at matterickson@hotmail.com
