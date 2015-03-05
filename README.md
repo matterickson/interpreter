@@ -5,9 +5,7 @@ The language supports integers and doubles, functions, recursion and a print sta
 
 The file Interpreter.jar is the entire project, runnable with just one click.
 
-The file GUI.java is a runnable java file that contains a JPanel for the user to program in (requires other files in this repo).
-
-The file MyApplet.java is a JApplet that can run the program in browser (assuming your browser still runs Java applets).  Running this file also requires the other java files in this repo like GUI.java.
+The file GUI.java is a runnable java file that contains a JPanel for the user to program in.  It has an input box, output box and some sample programs.
 
 The file syntax.txt is the syntax of the project.
 
